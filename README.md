@@ -1,2 +1,2 @@
 # kubernetes-examples
-Kubernetes commands, solutions, use caase exaamples and etc.
+Kubernetes commands, solutions, use caase examples and etc.
